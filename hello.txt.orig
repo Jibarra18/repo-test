@@ -1,0 +1,11 @@
+changed
+linea2
+hello this is a test
+
+line 5
+linea final
+<<<<<<< HEAD
+
+otra linea
+=======
+>>>>>>> f0b4c5a627f3e856f811c029587bbebfa8768629
